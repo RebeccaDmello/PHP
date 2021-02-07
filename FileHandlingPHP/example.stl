@@ -1,0 +1,17 @@
+solid sample
+facet normal 0.000000e000 1.000000e000 1.000000e000
+    outer loop
+        vertex 5.002450e004 9.000000e000 3.000000e001
+        vertex 6.000040e010 6.053000e000 1.535000e000
+        vertex 7.000000e002 1.000000e001 1.700000e004
+    endloop
+endfacet
+facet normal 0.000000e000 1.000000e000 1.000000e000
+    outer loop
+        vertex 1.000400e005 1.0333000e000 1.000430e000
+        vertex 2.003000e003 1.0532050e000 7.202340e009
+        vertex 3.004000e004 1.0054300e000 8.003200e003
+    endloop
+endfacet
+endsolid sample
+

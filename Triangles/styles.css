@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan. 18, 2021, 9:11:37 a.m.
+    Author     : Rebecca Moses Dmello
+*/
+
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+    padding: auto;
+}
+
+#first{
+    color: orange;
+}
+
+#second{
+    color: red;
+}
+
+#third {
+    color: blue;
+}
+
+#fourth {
+    color: green;
+}
+
+h3 , hr {
+    margin: 10px 0px;
+}
